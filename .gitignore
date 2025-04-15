@@ -1,0 +1,10 @@
+vendors/
+package-lock.json
+node_modules/
+dist/
+*.log
+*.env
+*.local
+package.json
+package-lock.json
+gulpfile.js

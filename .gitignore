@@ -9,3 +9,4 @@ package.json
 package-lock.json
 gulpfile.js
 csscomb.json
+.ds_store
